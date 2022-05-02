@@ -14,7 +14,7 @@
 theme: jekyll-agency
 
 url: "http://Pastor-Devlper.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Gunbam" # the subpath of your site, e.g. /blog
 
 title: Gunbam Company
 email: ct1799@hanmail.net #this is also the email contact forms will go to
