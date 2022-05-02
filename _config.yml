@@ -13,7 +13,7 @@
 
 theme: jekyll-agency
 
-url: "http://Pastor-Devlper.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://Pastor-Devlper.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/Gunbam" # the subpath of your site, e.g. /blog
 
 title: Gunbam Company
